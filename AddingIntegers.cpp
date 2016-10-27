@@ -8,6 +8,7 @@
 using namespace std;
 
 int main(){
+	
 	/* Declaration of variables */
   	int a,b;
   	
